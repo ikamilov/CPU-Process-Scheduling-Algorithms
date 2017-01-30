@@ -45,7 +45,7 @@ These algorithms are either non-preemptive or preemptive. Non-preemptive algorit
   Priority can be decided based on memory requirements, time requirements or any other resource requirement.
   
 ![alt tag](https://github.com/ikamilov/CPU-Process-Scheduling-Algorithms/blob/master/Screenshots/Screen%20Shot%202016-12-26%20at%201.51.06%20PM.png)
-  
+![alt tag](https://github.com/ikamilov/CPU-Process-Scheduling-Algorithms/blob/master/Screenshots/Screen%20Shot%202016-12-26%20at%201.51.26%20PM.png)
   
   
   
